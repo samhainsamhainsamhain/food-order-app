@@ -5,6 +5,7 @@ output/
 
 # Temporary file directory
 tmp/nanoc/
+node_modules
 
 # Crash Log
 crash.log
